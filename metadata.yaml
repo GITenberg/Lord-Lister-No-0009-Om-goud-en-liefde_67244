@@ -1,5 +1,8 @@
 _repo: Lord-Lister-No-0009-Om-goud-en-liefde_67244
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Matull, Kurt
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '53456'
     url: http://www.gutenberg.org/2009/agents/53456
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67244#Lord-Lister-No-0009-Om-goud-en-liefde
 gutenberg_issued: '2022-01-24'
 identifiers:
   gutenberg: '67244'
